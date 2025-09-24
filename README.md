@@ -14,3 +14,4 @@ Python, Pyspark, NLP, Machine Learning, AI, Azure, Sk-Learn, Pandas, SQL, Tablea
 Below is a predictive analytics project where total sales have been predicted using channel advertising data and linear regression machine learning algo is been implemented in this project.
 
 
+https://github.com/Nagashree90/machine-learning/blob/main/linear_regression.ipynb
